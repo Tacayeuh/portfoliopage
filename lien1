@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="eng-US">
+
+<head>	
+	<meta charset="utf-8">
+	<meta name="Erwan Moreau">	
+	<meta content="Portfolio Accueil">		
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<title>
+		Content
+	</title>
+</head>
+	<body>
+			<header>
+				
+				いらっしゃいませ
+				
+			</header>
+
+
+			<nav id="navg1">
+				
+
+				<a href="page1.html">
+					<img id="logo" src="../images/rwan.svg"><br></a>
+					<section id="first">
+						
+
+			</nav>
+		<main id="maing1">
+
+				<section>
+
+<div class="container2">
+     
+  <img class="alignright" src="../images/Snake illu.svg">
+    <p class="alignright">Les projets portes sur des illustrations qui ont l'air de ressembler premièrement à des tatouages.
+    Néanmoins ils peuvent tout à fait être décoratif, certains ne peuvent pas se situé dans n'importe qu'elle endroit ou position.</p>
+</div>
+
+<div class="container1">
+     
+  <img class="alignleft" src="../images/Carpe koi.svg">
+    <p class="alignleft">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+
+<div class="container2">
+     
+  <img class="alignright" src="../images/eyes.svg">
+    <p class="alignright">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>
+
+		
+			</a>
+
+		</main>
+			<footer>
+				
+				私のサイトに興味を持ってくれてありがとう
+				
+				
+			</footer>
+
+
+	</body>
+</html>
+
