@@ -1,0 +1,97 @@
+<!<!DOCTYPE html>
+<html lang="eng-US">
+
+<head>	
+	<meta charset="utf-8">
+	<meta name="Erwan Moreau">	
+	<meta content="Portfolio Accueil">		
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<title>
+		About me 
+	</title>
+</head>
+	<body>
+			<header>
+				
+				いらっしゃいませ
+				
+			</header>
+
+			<nav>
+			
+					<img id="logo" src="../images/rwan.svg"><br>
+				
+						<a>Used Tools :<a>
+				<a class="col2">
+					<img class="plogo" src="../images/ai.svg">
+					 Illustrator
+				</a>
+				<br>
+			
+				<a class="col2"><img class="plogo" src="../images/ps.svg">
+				 Photoshop
+				</a>	
+				<br>
+
+				<a class="col2"><img class="plogo" src="../images/ae.svg">
+				 After Effects
+				</a>
+				<div><img id="logo2" src="../images/logo2.svg">
+				<article id="descrip">
+				<p class="alignright">I use regularly the adobe suite, I hope to improve in the design of site and to be able to be independent, to perhaps create my site later <p></div>
+					<a href="apropos.html"></a>TEST<br>
+				<a href="contacts.html">Contacts</a><br>
+					<section id="first">
+
+			</nav>
+		<main>
+
+<a href="groupe 1.html">
+  	<div class="image">
+<img class="image_img" src="../images/working in progress2.svg">
+	<div class="image_overlay">
+		
+		<div class="image_title">Illustrator</div>
+		<p class="image_description">
+			Projects fait
+		</p>
+	</div>
+</div>
+</a>
+
+<a href="groupe 2.html">
+  	<div class="image">
+<img class="image_img" src="../images/working in progress2.svg">
+	<div class="image_overlay">
+	
+		<div class="image_title">Texte</div>
+		<p class="image_description">
+			test du test du test
+		</p>
+	</div>
+</div>
+</a>
+
+			<a href="groupe 3.html">
+  	<div class="image">
+<img class="image_img" src="../images/working in progress2.svg">
+	<div class="image_overlay">
+	
+		<div class="image_title">Texte</div>
+		<p class="image_description">
+			test du test du test
+		</p>
+	</div>
+</div>
+</a>
+		</main>
+
+			<footer>
+				
+				私のサイトに興味を持ってくれてありがとう
+				
+				
+			</footer>
+
+	</body>
+</html>
